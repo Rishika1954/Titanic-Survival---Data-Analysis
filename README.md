@@ -12,8 +12,8 @@ Analysis Steps:-
 7. Make Predictions: Use the model to make predictions on new data.
 
 Files Included:-
-* Titanic-Dataset.csv
-* Titanic dataset analysis.ipynb
+* Titanic-Dataset.csv - The dataset used for analysis.
+* Titanic dataset analysis.ipynb - Jupyter Notebook containing the Python code for data analysis.
 
 Requirements:-
 * Python 3
