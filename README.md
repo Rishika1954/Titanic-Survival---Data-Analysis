@@ -5,7 +5,7 @@ The sinking of the Titanic is one of the most infamous disasters in history. On 
 
 This project involves the analysis of Titanic Survival data analysis using Pandas, seaborn, and matplotlib to extract insights and trends. The dataset typically used for this project contains information about individual passengers, such as their age,gender, ticket class, fare, cabin,and whether or not they survived.
 
-Objectives:-
+# Objectives:-
 * Data Exploration: Understand the structure and contents of the dataset.
 * Data Preprocessing: Clean the data to handle missing values and convert categorical variables to numerical formats.
 * Exploratory Data Analysis (EDA): Identify key patterns and relationships in the data that may influence survival.
