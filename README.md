@@ -12,7 +12,7 @@ This project involves the analysis of Titanic Survival data analysis using Panda
 * Model Building: Train a machine learning model to predict passenger survival.
 * Model Evaluation: Assess the performance of the model using appropriate metrics.
 
-Analysis Steps:-
+# Analysis Steps:-
 * Import Libraries: Import necessary libraries for data manipulation, visualization, and model building.
 * Load and Explore the Dataset: Load the dataset and explore its structure, summary statistics, and missing values.
 * Preprocess the Data: Handle missing values, convert categorical variables to numerical, and normalize the data.
