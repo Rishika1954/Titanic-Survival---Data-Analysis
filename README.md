@@ -25,14 +25,14 @@ This project involves the analysis of Titanic Survival data analysis using Panda
 * Titanic-Dataset.csv - The dataset used for analysis.
 * Titanic dataset analysis.ipynb - Jupyter Notebook containing the Python code for data analysis.
 
-Requirements:-
+# Requirements:-
 * Python 3
 * Pandas
 * seaborn
 * matplotlib
 * Jupyter Notebook
 
-Results:-
+# Results:-
 The results s presents the findings from our analysis and model building. This includes:
 
 * Key insights from EDA, such as which factors significantly influenced survival.
