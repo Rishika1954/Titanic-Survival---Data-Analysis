@@ -5,7 +5,7 @@ The sinking of the Titanic is one of the most infamous disasters in history. On 
 
 This project involves the analysis of Titanic Survival data analysis using Pandas, seaborn, and matplotlib to extract insights and trends. The dataset typically used for this project contains information about individual passengers, such as their age,gender, ticket class, fare, cabin,and whether or not they survived.
 
-# Dataset
+# Dataset:-
 The dataset used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived. The dataset is publicly available and can be downloaded from Kaggle.
 
 # Objectives:-
